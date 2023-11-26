@@ -4,5 +4,5 @@ interface Location {
   created: Date;
   latitude: number;
   longitude: number;
-  sourceApp: string;
+  source_app: string;
 }

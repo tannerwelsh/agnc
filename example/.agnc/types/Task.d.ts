@@ -4,5 +4,5 @@ interface Task {
   created: Date;
   description?: string;
   complete: boolean;
-  dueDate?: Date;
+  due_date?: Date;
 }

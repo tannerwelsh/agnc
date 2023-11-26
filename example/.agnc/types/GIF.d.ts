@@ -1,7 +1,7 @@
 interface GIF {
   _type: "GIF";
   _media: boolean;
-  _mediaExt: "gif";
+  _media_ext: "gif";
   title: string;
   created: Date;
   mime: string;
