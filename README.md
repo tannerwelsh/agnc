@@ -1,2 +1,6 @@
-# agnc
-AGNC = AGents + Networked Cards
+# AGNC
+
+AGents + Networked Cards
+
+---
+
