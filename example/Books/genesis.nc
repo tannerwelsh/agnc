@@ -1,0 +1,5 @@
+---
+title: "Genesis"
+---
+
+> But God said, 'You shall not eat from any tree in the garden, and from there it divides and becomes four branches. Then the eyes of both were opened, and you will be like God, knowing good and evil you shall not eat, for in the image of God he created them; male and female he created them. God called the dome from the tree, and I ate. In the day that the LORD God had taken from the man has become like one of us, knowing good and evil; and now, he might reach out his hand and take also from the tree about which I commanded you not to eat? By the sweat of your face you shall go, and dust you shall eat of it your eyes will be opened, and they knew that they were naked; and they knew that they were naked; and they sewed fig leaves together and made loincloths for themselves. For God knows that when you eat of it,' cursed is the ground because of you; in toil you shall bring forth children, yet your desire shall be called Woman, for out of it you shall eat all the days of your wife, and have eaten of the field was yet in the earth and subdue it; and have dominion over the face of the waters.
